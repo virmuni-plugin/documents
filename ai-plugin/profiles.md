@@ -1,11 +1,11 @@
 ## پروفایل ها
 
 > نام دیتابیس : profiles
-> > GET
+> > انواع : GET
 > > > مسیر : virmuni/[plugin-name]/profiles/
 
 > نام دیتابیس : profile
-> > GET, POST, PUT, DELETE
+> > انواع : GET, POST, PUT, DELETE
 > > > مسیر : [ID]/virmuni/[plugin-name]/profile/
 
 

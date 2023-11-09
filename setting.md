@@ -5,19 +5,34 @@
 
 ### تنظمیات OpenAI :
 
-کلید API => با RadioButton
+کلید API => تایپ String ( کامپوننت RadioButton )
+> apikey
 - عمومی
 - خصوصی ( فیلد تکست اضافه برای ذخیره ) => String
 
-مدل => Select
+مدل => String ( کامپوننت Select )
+> model
   - لیست مورد نظر از ویرمونی گرفته میشه
 
 حداکثر توکن => Int
+> maxToken
 
-دما (Temperature) => Float
+لحن محتوا => String
+> tone
+  - لیست مورد نظر از ویرمونی گرفته میشه
 
-بالاترین احتمال (Top P) => Float
+سبک محتوا => String
+> writingStyle
+  - لیست مورد نظر از ویرمونی گرفته میشه
 
-جریمه فرکانس (Frequency penalty) => Float
+دما => Float
+> temperature
 
-جریمه حضور (Presence penalty) => Float
+بالاترین احتمال => Float
+> topP
+
+جریمه فرکانس => Float
+> frequencyPenalty
+
+جریمه حضور
+> presencePenalty => Float

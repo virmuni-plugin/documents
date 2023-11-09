@@ -1,6 +1,6 @@
 ## پروفایل ها
 > نام دیتابیس : profiles
-> > مسیر : virmuni/ai-full-chat/profiles/
+> > مسیر : virmuni/[plugin-name]/profiles/
 
 ### تنظیمات پروفایل
 

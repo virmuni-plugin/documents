@@ -1,12 +1,14 @@
 ## پروفایل ها
 
-> نام دیتابیس : profiles
+نام جدول : profiles
+
+> نام اندپوینت : profiles
 > > مسیر : virmuni/[plugin-name]/profiles/
 > > > انواع : GET
 
-> نام دیتابیس : profile
-> > انواع : GET, POST, PUT, DELETE
-> > > مسیر : [ID]/virmuni/[plugin-name]/profile/
+> نام اندپوینت : profile
+> > مسیر : [ID]/virmuni/[plugin-name]/profile/
+> > > انواع : GET, POST, PUT, DELETE
 
 
 ### تنظیمات پروفایل

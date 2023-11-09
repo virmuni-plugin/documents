@@ -6,39 +6,39 @@
 > دیتابیس : profileName => String
 
 2 . فاین تیون ها
-> fineTune => String
+> دیتابیس : fineTune => String
  - با کلیک کاربر روی این گزینه باید یک صفحه پاپ آپ باز بشه و دیتای گرفته شده از سمت سرور که دارای لیست فاین تیون های موجود هست، لیست بشه تا کاربر بتونه انتخاب کنه )
 
 ### تنظمیات OpenAI
 
 1 . کلید API ( کامپوننت RadioButton )
-> apiKey => String
+> دیتابیس : apiKey => String
 - عمومی
 - خصوصی ( فیلد تکست اضافه برای ذخیره ) => String
 
 2 . مدل ( کامپوننت Select )
-> model => String
+> دیتابیس : model => String
   - لیست مورد نظر از ویرمونی گرفته میشه
 
 3 . حداکثر توکن
-> maxToken => Int
+> دیتابیس : maxToken => Int
 
 4 . لحن محتوا ( کامپوننت Select )
-> tone => String
+> دیتابیس : tone => String
   - لیست مورد نظر از ویرمونی گرفته میشه
 
 5 . سبک محتوا ( کامپوننت Select )
-> writingStyle => String
+> دیتابیس : writingStyle => String
   - لیست مورد نظر از ویرمونی گرفته میشه
 
 6 . دما
-> temperature => Float
+> دیتابیس : temperature => Float
 
 7 . بالاترین احتمال
-> topP => Float
+> دیتابیس : topP => Float
 
 8 . جریمه فرکانس
-> frequencyPenalty => Float
+> دیتابیس : frequencyPenalty => Float
 
 9 . جریمه حضور
-> presencePenalty => Float
+> دیتابیس : presencePenalty => Float

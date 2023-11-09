@@ -3,7 +3,7 @@
 ### تنظیمات پروفایل
 
 1 . نام پروفایل ( نام پیشفرض قابل ویرایش نباشد )
-> profileName
+> profileName => String
 
 2 . فاین تیون ها
 > fineTune => String

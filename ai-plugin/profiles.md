@@ -1,4 +1,4 @@
-## پروفایل ها (نام جدول -> profiles)
+## پروفایل ها (نام جدول --> profiles)
 
 > نام اندپوینت : profiles
 > > مسیر : virmuni/[plugin-name]/profiles/

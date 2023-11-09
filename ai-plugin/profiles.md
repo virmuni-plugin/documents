@@ -1,13 +1,11 @@
-## پروفایل ها
-
-نام جدول : profiles
+## پروفایل ها (نام جدول => profiles)
 
 > نام اندپوینت : profiles
 > > مسیر : virmuni/[plugin-name]/profiles/
 > > > انواع : GET
 
 > نام اندپوینت : profile
-> > مسیر : [ID]/virmuni/[plugin-name]/profile/
+> > مسیر : [id]/virmuni/[plugin-name]/profile/
 > > > انواع : GET, POST, PUT, DELETE
 
 
